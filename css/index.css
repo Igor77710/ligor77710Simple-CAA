@@ -1,0 +1,21 @@
+h1{
+    color: red
+}
+p{
+    color: rgb(48, 122, 30)
+}
+#chosen{
+    border: solid brown
+}
+.foo{
+    text-transform: uppercase
+}
+p::first-letter {
+    font-size: 2rem
+}
+p:hover{
+    background-color: grey
+}
+div p{
+    font-weight: bold
+}
